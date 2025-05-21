@@ -201,7 +201,8 @@ body {
 
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/fe4ae516-36ee-49be-abe8-54db3c6d3704)
+![image](https://github.com/user-attachments/assets/d03bd1e6-aab3-4746-b9e1-ae93d22bb415)
+
 
 
 ## RESULT
